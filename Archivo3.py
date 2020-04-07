@@ -1,6 +1,7 @@
 # Archivo3.py
 # RamaProgramador
-# Primera Modificación
+# Segunda Modificación
+# Versión 1 Lista
 
 apellido = "González     "
 nombre = "Alejandro Emilio "

@@ -4,7 +4,7 @@
 # Versión 1 Lista
 
 # Modificación para Version 3
-# Hecha en rama RamaProgramador
+# Hecha en rama MASTER (y ramaprogramador)
 
 apellido = "González     "
 nombre = "Alejandro Emilio "
